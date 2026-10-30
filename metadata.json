@@ -1,0 +1,10 @@
+{
+  "name": "ChordFlow",
+  "description": "Android client for ChordFlow (chords.m43st.ru) with microphone access for smart chord scrolling.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
